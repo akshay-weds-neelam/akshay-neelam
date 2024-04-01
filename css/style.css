@@ -1863,4 +1863,10 @@ form label {
   opacity: 0;
 }
 
+#fh5co-header {
+  @media screen and (max-width: 768px) {
+    background-position: 55% 0 !important;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
